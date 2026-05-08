@@ -9,6 +9,7 @@
             <class name="tests.LoginTests"/>
             <class name="tests.CartTests"/>
             <class name="tests.CheckoutTests"/>
+            <class name="tests.NegativeTests.java"></class>
 
         </classes>
 
